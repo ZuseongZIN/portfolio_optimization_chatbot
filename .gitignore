@@ -1,0 +1,6 @@
+*.docx
+.ipynb_checkpoints
+.ipynb
+.workspace.ipynb
+node_modules
+.env
